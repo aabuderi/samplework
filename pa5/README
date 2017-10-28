@@ -1,0 +1,17 @@
+Adam Buderi 1451707
+pa4 README
+3/1/2017
+---------------------------------------------------------------------
+included files:
+List.c
+List.h
+Graph.c
+Graph.h
+GraphTest.c
+FindPath.c
+Makefile
+README
+
+notes:
+I tried to minimize memory leaks but didn't have the time to eliminate them.
+List.c is much improved compared to the version in pa2

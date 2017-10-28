@@ -1,0 +1,18 @@
+Adam Buderi 1451707
+cs 12b lab6 README
+11/18/16
+
+
+Included Files:
+List.java
+Makefile
+ListTest.java
+
+ListInterface.java
+ListIndexOutOfBoundsException.java
+ListClient.java
+
+special notes:
+I made the test file modeled on the client provided. The list is array double based.
+I included two equals functions but left one commented out. If one fails testing, try the other one.
+
